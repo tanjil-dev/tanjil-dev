@@ -1,5 +1,7 @@
 ![Software developer](https://github.com/tanjil-dev/tanjil-dev/blob/main/github-header-image.png)
+###
 
+<h2 align="left">About me</h2>
 I have worked in the development realm for almost 2 years and touched on various software stacks from frontend to backend development. I'm very passionate and in love with learning as well as developing software.
 
 <h2 align="left">I code with</h2>
