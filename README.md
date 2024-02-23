@@ -4,7 +4,7 @@
 <h2 align="left">About me</h2>
 I have worked in the development realm for almost 2 years and touched on various software stacks from frontend to backend development. I'm very passionate and in love with learning as well as developing software.
 
-<h2 align="left">I code with</h2>
+<h2 align="left">Skills</h2>
 
 ###
 
@@ -15,7 +15,13 @@ I have worked in the development realm for almost 2 years and touched on various
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/labs/8/8e/Mysql_logo.png" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://miro.medium.com/v2/1*7AOhGDnRL2eyJMUidCHZEA.jpeg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" alt="javascript logo"  />
 </div>
 
 ###
