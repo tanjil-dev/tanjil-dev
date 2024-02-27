@@ -22,6 +22,11 @@ I have worked in the development realm for almost 2 years and touched on various
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" height="40" alt="javascript logo"  />
+  <img width="12" />
 </div>
 
 ###
