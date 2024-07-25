@@ -17,6 +17,8 @@ I have worked in the development realm for almost 2 years and touched on various
   <img width="12" />
   <img src="https://miro.medium.com/v2/1*7AOhGDnRL2eyJMUidCHZEA.jpeg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="javascript logo"  />
@@ -28,8 +30,6 @@ I have worked in the development realm for almost 2 years and touched on various
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/AJAX_logo_by_gengns.svg/2560px-AJAX_logo_by_gengns.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
 
