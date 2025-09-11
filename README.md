@@ -2,7 +2,7 @@
 ###
 
 <h2 align="left">About me</h2>
-I have worked in the development realm for almost 2 years and touched on various software stacks from frontend to backend development. I'm very passionate and in love with learning as well as developing software.
+I have worked in the development realm for almost 2 years and have touched on various software stacks from frontend to backend development. I'm very passionate and in love with learning as well as developing software.
 
 <h2 align="left">Skills</h2>
 
@@ -19,6 +19,8 @@ I have worked in the development realm for almost 2 years and touched on various
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" height="40" alt="javascript logo"  />
   <img width="12" />
+  <img src="https://raw.githubusercontent.com/numpy/numpy/main/branding/logo/primary/numpylogo.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="javascript logo"  />
@@ -29,7 +31,7 @@ I have worked in the development realm for almost 2 years and touched on various
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/2560px-Bootstrap_logo.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://icon-library.com/images/jquery-icon-png/jquery-icon-png-7.jpg" height="40" alt="javascript logo"  />
+  <img src="https://www.miamammausalinux.org/wp-content/uploads/2016/05/docker-logo.png" height="40" alt="javascript logo"  />
   <img width="12" />
 </div>
 
