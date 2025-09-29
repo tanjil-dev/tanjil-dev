@@ -38,5 +38,12 @@ I have worked in the development realm for almost 2 years and have touched on va
 ###
 
 
+## 🌐 Languages I Speak
+
+| Language        | Proficiency Level        |
+|-----------------|------------------------|
+| 🇧🇩 Bangla      | Native                 |
+| 🇯🇵 Japanese    | Conversational         |
+| 🇺🇸 English     | Conversational         |
 
 
