@@ -25,7 +25,7 @@ I have worked in the development realm for over 3 years and have touched on vari
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" height="40" alt="javascript logo"  />
   <img width="12" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/640px-CSS3_logo_and_wordmark.svg.png" height="40" alt="javascript logo"  />
+  <img src="https://www.superbefilms.com/wp-content/uploads/2016/03/css-logo.png" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/WordPress_blue_logo.svg/1024px-WordPress_blue_logo.svg.png" height="40" alt="javascript logo"  />
   <img width="12" />
